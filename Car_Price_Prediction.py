@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import pickle
-import locale
 import os
 
 st.title('Car Price Prediction')
@@ -177,12 +176,8 @@ df_encoded = pd.get_dummies(df, columns=one_hot_encode_columns)
 model_path = os.path.join(project_dir, 'Car_Price_Prediction_Sample.sav')
 loaded_model = pickle.load(open(model_path, 'rb'))
 
-locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-
 if st.button('Predict'):
     predicted_price = loaded_model.predict(df_encoded)
-    formatted_price = locale.format('%.2f', predicted_price[0], grouping=True)
+    formatted_price = f'USD ($) Predicted Price: {predicted_price[0]:,.2f}'
     
-    st.markdown('<div class="prediction-container">'
-                f'<p>USD ($) Predicted Price: {formatted_price}</p>'
-                '</div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="prediction-container"><p>{formatted_price}</p></div>', unsafe_allow_html=True)
