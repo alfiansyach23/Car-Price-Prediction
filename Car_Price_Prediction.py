@@ -175,7 +175,7 @@ df_encoded = pd.get_dummies(df, columns=one_hot_encode_columns)
 # df_encoded.drop(columns=['fuel_type_Gasoline'], inplace=True)
 
 model_path = os.path.join(project_dir, 'Car_Price_Prediction_Sample.sav')
-loaded_model = pickle.load(open(model_path))
+loaded_model = pickle.load(open(model_path, 'rb'))
 
 locale.setlocale(locale.LC_ALL, 'id_ID')
 
