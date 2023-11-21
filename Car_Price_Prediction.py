@@ -4,12 +4,14 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import pickle
 import locale
+import os
 
 st.title('Car Price Prediction')
 st.sidebar.header('Choose According to your Criteria')
 
-image_url = 'Car_Price_Prediction.png'
-st.image(image_url, use_column_width=True)
+project_dir = os.path.dirname(os.path.abspath(__file__))
+image_path = os.path.join(project_dir, 'Car_Price_Prediction.png')
+st.image(image_path, use_column_width=True)
 
 def user_input_features():
     product_category_options = ['Compact', 'Luxury', 'Pick Up', 'Sedan', 'SUV']
@@ -141,7 +143,8 @@ def user_input_features():
 
 input_df = user_input_features()
 
-price_raw = pd.read_csv('File CSV/Car_Price_Prediction_Clean.csv')
+csv_file_path = os.path.join(project_dir, 'Car_Price_Prediction_Clean.csv')
+price_raw = pd.read_csv(csv_file_path)
 price = price_raw.drop(columns=['price'])
 df = pd.concat([input_df, price], axis=0)
 df_test = df[:1]
@@ -171,7 +174,8 @@ one_hot_encode_columns = ['fuel_type']
 df_encoded = pd.get_dummies(df, columns=one_hot_encode_columns)
 # df_encoded.drop(columns=['fuel_type_Gasoline'], inplace=True)
 
-loaded_model = pickle.load(open('Car_Price_Prediction_Sample.sav', 'rb'))
+model_path = os.path.join(project_dir, 'Car_Price_Prediction_Sample.sav')
+loaded_model = pickle.load(open(model_path))
 
 locale.setlocale(locale.LC_ALL, 'id_ID')
 
