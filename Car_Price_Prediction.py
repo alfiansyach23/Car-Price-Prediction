@@ -177,7 +177,7 @@ df_encoded = pd.get_dummies(df, columns=one_hot_encode_columns)
 model_path = os.path.join(project_dir, 'Car_Price_Prediction_Sample.sav')
 loaded_model = pickle.load(open(model_path, 'rb'))
 
-locale.setlocale(locale.LC_ALL, 'id_ID')
+locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 if st.button('Predict'):
     predicted_price = loaded_model.predict(df_encoded)
