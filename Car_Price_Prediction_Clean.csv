@@ -1,0 +1,472 @@
+product_category,brand,milage,horse_power,engine_capacity,total_cylinder,fuel_type,transmission,accident,price
+Luxury,Volvo,40000,400,2.0,4.0,Plug-In Hybrid,Automatic,None reported,42000
+Luxury,Volvo,44487,400,2.0,4.0,Plug-In Hybrid,Automatic,None reported,65000
+Luxury,Volvo,9408,400,2.0,4.0,Hybrid,Automatic,None reported,61999
+Luxury,Volvo,19352,455,2.0,4.0,Plug-In Hybrid,Automatic,None reported,54599
+Luxury,Volvo,7800,455,2.0,4.0,Plug-In Hybrid,Automatic,None reported,66000
+Luxury,Volvo,14280,247,2.0,4.0,Hybrid,Automatic,None reported,36500
+Luxury,Volvo,24158,400,2.0,4.0,Plug-In Hybrid,Automatic,None reported,44900
+Compact,Volkswagen,15167,240,3.0,6.0,Diesel,Automatic,None reported,35000
+Sedan,Toyota,14048,203,2.5,4.0,Hybrid,CVT,None reported,29999
+Sedan,Toyota,7000,437,3.4,6.0,Hybrid,Automatic,None reported,75500
+Sedan,Toyota,19000,437,3.4,6.0,Hybrid,Automatic,None reported,71000
+Sedan,Toyota,54000,219,2.5,4.0,Hybrid,CVT,None reported,33000
+Sedan,Toyota,264893,208,3.3,6.0,Hybrid,Automatic,At least 1 accident or damage reported,5000
+Sedan,Toyota,138700,381,5.7,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,18800
+Sedan,Toyota,34049,360,3.5,6.0,Hybrid,CVT,None reported,37999
+Sedan,Toyota,173456,381,5.7,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,16000
+Sedan,Toyota,69350,306,3.5,6.0,Hybrid,Automatic,None reported,36000
+Sedan,Toyota,53249,147,2.4,4.0,Hybrid,Automatic,At least 1 accident or damage reported,9250
+Sedan,Toyota,1539,381,3.4,6.0,Hybrid,Automatic,At least 1 accident or damage reported,76373
+Sedan,Toyota,8200,437,3.4,6.0,Hybrid,Automatic,None reported,78900
+Sedan,Toyota,20400,208,2.5,4.0,Hybrid,CVT,None reported,29900
+Sedan,Toyota,10748,401,3.4,6.0,Hybrid,Automatic,None reported,63100
+Sedan,Toyota,94448,200,2.5,4.0,Hybrid,Automatic,None reported,15999
+Sedan,Toyota,325,437,3.4,6.0,Hybrid,Automatic,None reported,84997
+Sedan,Toyota,44459,121,1.8,4.0,Hybrid,Automatic,None reported,22945
+Sedan,Toyota,142500,76,1.5,4.0,Hybrid,Automatic,None reported,6999
+Sedan,Toyota,600,437,3.4,6.0,Hybrid,Automatic,None reported,91995
+Sedan,Toyota,67000,381,5.7,8.0,E85 Flex Fuel,Manual,None reported,37999
+Sedan,Toyota,69641,208,2.5,4.0,Hybrid,CVT,At least 1 accident or damage reported,23995
+Sedan,Toyota,200,437,3.4,6.0,Hybrid,Automatic,None reported,82500
+Sedan,Toyota,74000,381,5.7,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,38000
+Sedan,Toyota,1025,437,3.4,6.0,Hybrid,Automatic,None reported,85000
+Sedan,Toyota,62200,306,3.5,6.0,Hybrid,CVT,None reported,35707
+Sedan,Toyota,7100,302,2.5,4.0,Plug-In Hybrid,Automatic,None reported,49000
+Sedan,Toyota,44000,182,1.5,3.0,Hydrogen,Automatic,None reported,18500
+Sedan,Toyota,133121,147,2.4,4.0,Hybrid,Automatic,At least 1 accident or damage reported,7900
+Sedan,Toyota,22000,208,2.5,4.0,Hybrid,Automatic,None reported,29500
+Sedan,Toyota,13828,306,3.5,6.0,Hybrid,CVT,None reported,43000
+Sedan,Toyota,161000,200,2.5,4.0,Hybrid,CVT,None reported,11500
+Sedan,Toyota,46000,306,3.5,6.0,Hybrid,CVT,None reported,40000
+Sedan,Toyota,86300,134,1.8,4.0,Hybrid,Automatic,At least 1 accident or damage reported,18000
+Sedan,Toyota,500,245,2.5,4.0,Hybrid,Automatic,None reported,59500
+Sedan,Toyota,40000,151,1.5,3.0,Hydrogen,Automatic,None reported,9500
+Sedan,Toyota,106000,134,1.8,4.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,11800
+Sedan,Toyota,80354,134,1.8,4.0,Hybrid,Automatic,At least 1 accident or damage reported,13310
+Compact,Saturn,115000,172,2.4,4.0,Hybrid,Automatic,None reported,4400
+Pick Up,RAM,65000,370,6.7,6.0,Diesel,Manual,None reported,65000
+Pick Up,RAM,18526,410,6.7,6.0,Diesel,Manual,None reported,67999
+Pick Up,RAM,86000,350,6.7,6.0,Diesel,Manual,At least 1 accident or damage reported,41000
+Pick Up,RAM,177000,385,6.7,6.0,Diesel,Manual,At least 1 accident or damage reported,40500
+Pick Up,RAM,19000,390,3.6,6.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,33242
+Pick Up,RAM,36757,390,3.6,6.0,E85 Flex Fuel,Automatic,None reported,31953
+Pick Up,RAM,61802,305,3.6,6.0,E85 Flex Fuel,Automatic,None reported,32000
+Pick Up,RAM,198868,350,6.7,6.0,Diesel,Manual,None reported,25000
+Pick Up,RAM,52000,350,6.7,6.0,Diesel,Manual,None reported,50000
+Pick Up,RAM,2990,400,6.7,6.0,Diesel,Automatic,At least 1 accident or damage reported,69900
+Pick Up,RAM,24000,395,5.7,8.0,Hybrid,Automatic,None reported,42000
+Pick Up,RAM,117878,350,6.7,6.0,Diesel,Automatic,None reported,42000
+Pick Up,RAM,157272,350,6.7,6.0,Diesel,Manual,At least 1 accident or damage reported,32999
+Pick Up,RAM,57000,400,6.7,6.0,Diesel,Manual,None reported,52000
+Pick Up,RAM,95115,410,6.7,6.0,Diesel,Manual,None reported,43640
+Pick Up,RAM,97000,370,6.7,6.0,Diesel,Automatic,At least 1 accident or damage reported,45000
+Pick Up,RAM,98650,350,6.7,6.0,Diesel,Manual,None reported,56750
+Pick Up,RAM,87768,395,5.7,8.0,Hybrid,Automatic,None reported,44000
+Pick Up,RAM,16648,410,6.7,6.0,Diesel,Manual,None reported,70999
+Pick Up,RAM,46000,305,3.6,6.0,Hybrid,Automatic,None reported,37900
+Pick Up,RAM,41800,260,3.0,6.0,Diesel,Automatic,None reported,44900
+Pick Up,RAM,32000,395,5.7,8.0,Hybrid,Automatic,None reported,50927
+Pick Up,RAM,106385,385,6.7,6.0,Diesel,Manual,At least 1 accident or damage reported,42900
+Pick Up,RAM,26269,390,3.6,6.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,25307
+Pick Up,RAM,63875,395,5.7,8.0,Hybrid,Automatic,At least 1 accident or damage reported,41900
+Pick Up,RAM,72200,370,6.7,6.0,Diesel,Manual,None reported,52500
+Pick Up,RAM,149130,350,6.7,6.0,Diesel,Manual,At least 1 accident or damage reported,35000
+Luxury,Porsche,96000,416,3.0,6.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,23000
+Luxury,Porsche,97300,240,3.0,6.0,Diesel,Automatic,None reported,29995
+Luxury,Porsche,86818,240,3.0,6.0,Diesel,Automatic,None reported,33500
+Luxury,Porsche,69404,416,3.0,6.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,29500
+Sedan,Nissan,127600,317,5.6,8.0,E85 Flex Fuel,Automatic,None reported,19500
+Luxury,Mercedes-Benz,17900,362,3.0,6.0,Hybrid,Automatic,At least 1 accident or damage reported,80000
+Luxury,Mercedes-Benz,24906,362,3.0,3.0,Hybrid,Automatic,None reported,63998
+Luxury,Mercedes-Benz,65000,188,3.0,6.0,Diesel,Manual,At least 1 accident or damage reported,54999
+Luxury,Mercedes-Benz,4102,603,4.0,8.0,Hybrid,Automatic,None reported,144664
+Luxury,Mercedes-Benz,124630,188,3.0,6.0,Diesel,Automatic,None reported,75000
+Luxury,Mercedes-Benz,41545,362,3.0,3.0,Hybrid,Automatic,None reported,71998
+Luxury,Mercedes-Benz,4700,496,4.0,8.0,Hybrid,Automatic,None reported,99900
+Luxury,Mercedes-Benz,5595,443,3.0,3.0,Hybrid,Automatic,None reported,83598
+Luxury,Mercedes-Benz,33300,188,3.0,6.0,Diesel,Manual,None reported,45000
+Luxury,Mercedes-Benz,13000,429,3.0,6.0,Hybrid,Automatic,None reported,81500
+Luxury,Mercedes-Benz,100245,188,3.0,6.0,Diesel,Automatic,At least 1 accident or damage reported,24000
+Luxury,Mercedes-Benz,120000,188,3.0,6.0,Diesel,Automatic,None reported,31999
+Luxury,Mercedes-Benz,7968,496,4.0,8.0,Hybrid,Automatic,None reported,104999
+Luxury,Mercedes-Benz,39748,188,3.0,6.0,Diesel,Automatic,At least 1 accident or damage reported,54995
+Luxury,Mercedes-Benz,56578,208,2.0,4.0,E85 Flex Fuel,Manual,None reported,20900
+Luxury,Mercedes-Benz,110000,188,3.0,6.0,Diesel,Automatic,None reported,29000
+Luxury,Mercedes-Benz,22000,429,3.0,6.0,Hybrid,Automatic,None reported,83999
+Luxury,Mercedes-Benz,35000,429,3.0,6.0,Hybrid,Automatic,None reported,83000
+Luxury,Mercedes-Benz,105,161,2.0,4.0,Diesel,Manual,None reported,200000
+Luxury,Mercedes-Benz,23044,435,3.0,3.0,Hybrid,Automatic,None reported,72598
+Luxury,Mercedes-Benz,143290,161,2.1,4.0,Diesel,Automatic,None reported,33490
+Luxury,Mercedes-Benz,70015,163,2.5,5.0,Diesel,Automatic,None reported,22500
+Luxury,Mercedes-Benz,75073,302,3.5,6.0,E85 Flex Fuel,Manual,None reported,21500
+Luxury,Mercedes-Benz,2235,429,3.0,6.0,Hybrid,Automatic,None reported,110000
+Luxury,Mercedes-Benz,16113,188,3.0,6.0,Diesel,Automatic,None reported,111000
+Luxury,Mercedes-Benz,88000,302,3.5,6.0,E85 Flex Fuel,Automatic,None reported,19500
+Luxury,Mercedes-Benz,18000,362,3.0,6.0,Hybrid,Automatic,At least 1 accident or damage reported,62000
+Luxury,Mercedes-Benz,139200,161,2.1,4.0,Diesel,Automatic,At least 1 accident or damage reported,22000
+Luxury,Mercedes-Benz,15615,429,3.0,6.0,Hybrid,Automatic,None reported,78000
+Luxury,Mercedes-Benz,1500,188,3.0,6.0,Diesel,Automatic,None reported,39500
+Luxury,Mercedes-Benz,13344,188,3.0,6.0,Diesel,Manual,None reported,56500
+Luxury,Mercedes-Benz,399000,188,3.0,6.0,Diesel,Automatic,At least 1 accident or damage reported,24500
+Luxury,Mercedes-Benz,67000,369,3.0,6.0,Hybrid,Automatic,None reported,44500
+Luxury,Mercedes-Benz,4000,211,2.0,4.0,Diesel,Automatic,None reported,65000
+Luxury,Mercedes-Benz,41500,188,3.0,6.0,Diesel,Automatic,None reported,61000
+Luxury,Mercedes-Benz,2000,603,4.0,8.0,Hybrid,Automatic,None reported,175000
+Luxury,Maserati,2200,325,2.0,4.0,Hybrid,Automatic,None reported,75000
+Luxury,Lincoln,78568,188,2.0,4.0,Hybrid,Automatic,None reported,15500
+Luxury,Lincoln,1850,266,2.5,4.0,Plug-In Hybrid,CVT,None reported,49000
+Luxury,Lincoln,191775,310,5.4,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,9750
+Luxury,Lincoln,134000,310,5.4,8.0,E85 Flex Fuel,Manual,None reported,21500
+Luxury,Lexus,87001,200,2.5,4.0,Hybrid,CVT,None reported,17995
+Luxury,Lexus,101000,134,1.8,4.0,Hybrid,Automatic,At least 1 accident or damage reported,16500
+Luxury,Lexus,15833,308,3.5,6.0,Hybrid,CVT,None reported,52000
+Luxury,Lexus,239000,295,3.5,6.0,Hybrid,Automatic,None reported,7000
+Luxury,Lexus,31365,354,3.5,6.0,Hybrid,CVT,None reported,52998
+Luxury,Lexus,73948,308,3.5,6.0,Hybrid,Automatic,None reported,31990
+Luxury,Lexus,70780,308,3.5,6.0,Hybrid,CVT,None reported,35700
+Luxury,Lexus,43671,354,3.5,6.0,Hybrid,CVT,None reported,44950
+Luxury,Lexus,109000,134,1.8,4.0,Hybrid,Automatic,At least 1 accident or damage reported,14945
+Luxury,Lexus,131200,134,1.8,4.0,Hybrid,Automatic,None reported,14000
+Luxury,Lexus,16425,243,2.5,4.0,Hybrid,CVT,At least 1 accident or damage reported,33200
+Luxury,Lexus,168422,245,3.5,6.0,Hybrid,Automatic,At least 1 accident or damage reported,10900
+Luxury,Lexus,123500,147,2.4,4.0,Hybrid,Automatic,At least 1 accident or damage reported,9500
+Luxury,Lexus,119755,295,3.5,6.0,Hybrid,Automatic,None reported,19500
+Luxury,Lexus,300,240,2.5,4.0,Hybrid,Automatic,None reported,50999
+Luxury,Lexus,1600,308,3.5,6.0,Hybrid,Automatic,None reported,59000
+Luxury,Lexus,100868,200,2.5,4.0,Hybrid,CVT,At least 1 accident or damage reported,23400
+Luxury,Lexus,125519,134,1.8,4.0,Hybrid,CVT,At least 1 accident or damage reported,16000
+Luxury,Lexus,39750,134,1.8,4.0,Hybrid,Automatic,None reported,21995
+SUV,Land,6204,395,3.0,4.0,Hybrid,Automatic,None reported,79998
+SUV,Land,5433,400,3.0,4.0,Hybrid,Automatic,None reported,95998
+SUV,Land,30424,250,2.0,2.0,Hybrid,Automatic,None reported,44998
+SUV,Land,16000,395,3.0,6.0,Hybrid,Automatic,None reported,75500
+SUV,Land,3534,575,4.4,6.0,Hybrid,Automatic,None reported,143998
+SUV,Land,8421,395,3.0,6.0,Hybrid,Automatic,None reported,90000
+SUV,Land,32705,365,3.0,3.0,Diesel,Automatic,None reported,46598
+SUV,Land,11700,395,3.0,6.0,Hybrid,Automatic,None reported,133500
+SUV,Land,3678,395,3.0,4.0,Hybrid,Automatic,None reported,81998
+SUV,Land,3369,395,3.0,6.0,Hybrid,Automatic,None reported,139500
+SUV,Land,125000,510,5.0,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,22500
+SUV,Land,52000,395,3.0,6.0,Hybrid,Automatic,None reported,55000
+SUV,Land,450,395,3.0,6.0,Hybrid,Automatic,None reported,124000
+SUV,Land,110000,510,5.0,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,26499
+SUV,Land,57785,395,3.0,6.0,Hybrid,Automatic,None reported,63995
+SUV,Land,15000,355,3.0,6.0,Hybrid,Automatic,None reported,69000
+SUV,Land,46000,395,3.0,6.0,Hybrid,Automatic,None reported,75000
+SUV,Land,64300,550,5.0,8.0,E85 Flex Fuel,Automatic,None reported,44850
+SUV,Land,41500,395,3.0,6.0,Hybrid,Automatic,None reported,68000
+SUV,Land,29000,355,3.0,6.0,Hybrid,Automatic,None reported,70000
+SUV,Land,13970,395,3.0,6.0,Hybrid,Automatic,None reported,75500
+SUV,Land,59500,340,3.0,6.0,E85 Flex Fuel,Automatic,None reported,33800
+SUV,Land,37248,395,3.0,6.0,Hybrid,Automatic,None reported,54500
+SUV,Land,2220,395,3.0,6.0,Hybrid,Automatic,None reported,115999
+Sedan,Kia,36602,188,1.6,4.0,Hybrid,Manual,None reported,31995
+Sedan,Kia,103111,199,2.4,4.0,Hybrid,Automatic,At least 1 accident or damage reported,9200
+Sedan,Kia,1340,177,1.6,4.0,Plug-In Hybrid,Automatic,None reported,41000
+Sedan,Kia,7578,139,1.6,4.0,Hybrid,Automatic,None reported,31113
+Sedan,Kia,117220,206,2.4,4.0,Hybrid,Automatic,None reported,8900
+Sedan,Kia,104994,199,2.4,4.0,Hybrid,Manual,None reported,9000
+Sedan,Kia,9400,180,1.6,4.0,Plug-In Hybrid,Automatic,None reported,31500
+Sedan,Kia,36100,227,1.6,4.0,Hybrid,Manual,None reported,37500
+Sedan,Kia,15583,261,1.6,4.0,Hybrid,Manual,None reported,40599
+Sedan,Kia,10101,261,1.6,4.0,Plug-In Hybrid,Manual,None reported,44990
+SUV,Jeep,33704,270,2.0,4.0,Hybrid,Automatic,None reported,42998
+SUV,Jeep,7000,285,3.6,6.0,Hybrid,Automatic,None reported,46000
+SUV,Jeep,106700,290,3.6,6.0,E85 Flex Fuel,Manual,None reported,13500
+SUV,Jeep,10500,375,2.0,4.0,Plug-In Hybrid,Automatic,None reported,49999
+SUV,Jeep,93400,290,3.6,6.0,E85 Flex Fuel,Automatic,None reported,18900
+SUV,Jeep,166000,290,3.6,6.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,13000
+SUV,Jeep,27000,285,3.6,6.0,Hybrid,Automatic,None reported,37500
+SUV,Jeep,1563,285,3.6,6.0,Hybrid,Automatic,None reported,62500
+SUV,Jeep,51105,270,2.0,4.0,Hybrid,Automatic,None reported,42700
+SUV,Jeep,161900,235,4.7,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,4800
+SUV,Jeep,157000,290,3.6,6.0,E85 Flex Fuel,Automatic,None reported,17000
+Luxury,Jaguar,23600,296,2.0,4.0,Hybrid,Automatic,None reported,42999
+Luxury,Jaguar,34322,180,2.0,4.0,Diesel,Automatic,None reported,29998
+Luxury,INFINITI,88900,354,3.5,6.0,Hybrid,Manual,None reported,15500
+Luxury,INFINITI,52750,360,3.5,6.0,Hybrid,Manual,At least 1 accident or damage reported,28998
+Luxury,INFINITI,88977,354,3.5,6.0,Hybrid,Manual,At least 1 accident or damage reported,19977
+Sedan,Hyundai,66000,199,2.4,4.0,Hybrid,Automatic,At least 1 accident or damage reported,15900
+Sedan,Hyundai,13044,139,1.6,4.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,24999
+Sedan,Hyundai,3402,226,1.6,4.0,Hybrid,Automatic,None reported,44000
+Sedan,Hyundai,30565,192,2.0,4.0,Hybrid,Automatic,None reported,29000
+Sedan,Hyundai,154000,206,2.4,4.0,Hybrid,Automatic,At least 1 accident or damage reported,8500
+Sedan,Hyundai,96419,199,2.4,4.0,Hybrid,Manual,At least 1 accident or damage reported,14999
+Sedan,Hyundai,28600,139,1.6,4.0,Hybrid,Automatic,None reported,23999
+Sedan,Honda,64200,151,1.5,4.0,Hybrid,CVT,At least 1 accident or damage reported,20499
+Sedan,Honda,71000,212,1.5,4.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,17500
+Sedan,Honda,96400,212,2.0,4.0,Hybrid,CVT,At least 1 accident or damage reported,18500
+Sedan,Honda,33523,204,2.0,4.0,Hybrid,CVT,None reported,28748
+Pick Up,GMC,116210,360,6.0,8.0,E85 Flex Fuel,Automatic,None reported,31900
+Pick Up,GMC,300000,300,6.6,8.0,Diesel,Automatic,At least 1 accident or damage reported,5000
+Pick Up,GMC,230000,315,5.3,8.0,E85 Flex Fuel,Automatic,None reported,15500
+Pick Up,GMC,194500,320,5.3,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,9500
+Pick Up,GMC,58000,360,6.0,8.0,E85 Flex Fuel,Automatic,None reported,36500
+Pick Up,GMC,73091,445,6.6,8.0,Diesel,Automatic,At least 1 accident or damage reported,58500
+Pick Up,GMC,117000,342,6.0,8.0,E85 Flex Fuel,Manual,None reported,38000
+Pick Up,GMC,142400,320,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,13500
+Pick Up,GMC,100080,285,4.3,6.0,E85 Flex Fuel,Manual,None reported,22989
+Pick Up,GMC,100,277,3.0,6.0,Diesel,Automatic,None reported,62499
+Pick Up,GMC,52673,445,6.6,8.0,Diesel,Manual,None reported,69500
+Pick Up,GMC,96343,445,6.6,8.0,Diesel,Manual,At least 1 accident or damage reported,53000
+Pick Up,GMC,63460,341,6.0,8.0,E85 Flex Fuel,Automatic,None reported,33000
+Pick Up,GMC,86000,397,6.6,8.0,Diesel,Automatic,None reported,49000
+Pick Up,GMC,16919,445,6.6,8.0,Diesel,Automatic,At least 1 accident or damage reported,73000
+Sedan,Ford,51000,300,3.7,6.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,10300
+Sedan,Ford,105000,300,3.7,6.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,6600
+Sedan,Ford,162100,255,5.4,8.0,E85 Flex Fuel,Automatic,None reported,12500
+Sedan,Ford,95000,275,3.7,6.0,E85 Flex Fuel,Automatic,None reported,43000
+Sedan,Ford,32000,210,2.0,4.0,Diesel,Automatic,None reported,68000
+Sedan,Ford,84352,188,2.0,4.0,Plug-In Hybrid,CVT,At least 1 accident or damage reported,10000
+Sedan,Ford,35597,385,6.2,8.0,E85 Flex Fuel,Manual,None reported,47756
+Sedan,Ford,44000,475,6.7,8.0,Diesel,Automatic,At least 1 accident or damage reported,73000
+Sedan,Ford,67482,188,2.0,4.0,Plug-In Hybrid,CVT,At least 1 accident or damage reported,11499
+Sedan,Ford,92000,250,3.0,6.0,Diesel,Automatic,At least 1 accident or damage reported,36500
+Sedan,Ford,85000,450,6.7,8.0,Diesel,Manual,At least 1 accident or damage reported,55000
+Sedan,Ford,149460,350,6.4,8.0,Diesel,Automatic,At least 1 accident or damage reported,12240
+Sedan,Ford,48000,275,3.5,6.0,E85 Flex Fuel,Automatic,None reported,57000
+Sedan,Ford,186268,240,3.0,6.0,E85 Flex Fuel,Manual,None reported,4500
+Sedan,Ford,161933,195,2.0,4.0,Hybrid,CVT,None reported,7945
+Sedan,Ford,52246,385,6.4,8.0,Diesel,Manual,None reported,26095
+Sedan,Ford,163000,255,5.4,8.0,E85 Flex Fuel,Automatic,None reported,19550
+Sedan,Ford,107000,385,5.0,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,22000
+Sedan,Ford,48549,430,6.7,8.0,Diesel,Automatic,None reported,69998
+Sedan,Ford,13700,191,2.5,4.0,Hybrid,CVT,None reported,39500
+Sedan,Ford,169000,290,3.5,6.0,E85 Flex Fuel,Automatic,None reported,13000
+Sedan,Ford,67550,325,6.0,8.0,Diesel,Automatic,None reported,30000
+Sedan,Ford,130200,350,6.4,8.0,Diesel,Automatic,None reported,28900
+Sedan,Ford,76163,325,6.0,8.0,Diesel,Automatic,None reported,20500
+Sedan,Ford,128000,440,6.7,8.0,Diesel,Manual,None reported,50000
+Sedan,Ford,60109,160,2.0,4.0,E85 Flex Fuel,Manual,None reported,9499
+Sedan,Ford,64532,188,2.0,4.0,Hybrid,Automatic,At least 1 accident or damage reported,19395
+Sedan,Ford,85000,450,6.7,8.0,Diesel,Manual,At least 1 accident or damage reported,52500
+Sedan,Ford,69205,450,6.7,8.0,Diesel,Automatic,None reported,73500
+Sedan,Ford,22000,385,6.2,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,53000
+Sedan,Ford,80200,385,6.2,8.0,E85 Flex Fuel,Automatic,None reported,42500
+Sedan,Ford,35900,385,6.2,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,27900
+Sedan,Ford,126225,188,2.0,4.0,Hybrid,CVT,At least 1 accident or damage reported,11500
+Sedan,Ford,28220,475,6.7,8.0,Diesel,Automatic,None reported,73600
+Sedan,Ford,97700,440,6.7,8.0,Diesel,Manual,None reported,39950
+Sedan,Ford,333361,250,7.3,8.0,Diesel,Automatic,At least 1 accident or damage reported,17000
+Sedan,Ford,124000,385,6.2,8.0,E85 Flex Fuel,Manual,None reported,40100
+Sedan,Ford,176691,325,6.0,8.0,Diesel,Automatic,At least 1 accident or damage reported,13000
+Sedan,Ford,156856,310,5.4,8.0,E85 Flex Fuel,Manual,None reported,14300
+Sedan,Ford,91000,160,2.0,4.0,E85 Flex Fuel,Manual,None reported,12500
+Sedan,Ford,80134,148,2.0,4.0,E85 Flex Fuel,Manual,None reported,13895
+Sedan,Ford,115402,152,3.0,6.0,E85 Flex Fuel,Automatic,None reported,8000
+Sedan,Ford,245000,325,6.0,8.0,Diesel,Automatic,At least 1 accident or damage reported,17999
+Sedan,Ford,132269,385,6.2,8.0,E85 Flex Fuel,Automatic,None reported,35900
+Sedan,Ford,137000,250,7.3,8.0,Diesel,Automatic,None reported,15000
+Sedan,Ford,120000,450,6.7,8.0,Diesel,Manual,At least 1 accident or damage reported,55000
+Sedan,Ford,33700,160,2.0,4.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,12000
+Sedan,Ford,16400,191,2.5,4.0,Hybrid,CVT,None reported,34000
+Sedan,Ford,75200,385,6.2,8.0,E85 Flex Fuel,Manual,None reported,22000
+Sedan,Ford,32268,385,6.2,8.0,E85 Flex Fuel,Manual,None reported,46500
+Sedan,Ford,31000,316,6.2,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,35000
+Sedan,Ford,38600,450,6.7,8.0,Diesel,Manual,None reported,54500
+Sedan,Ford,64000,450,6.7,8.0,Diesel,Automatic,None reported,64000
+Sedan,Ford,38514,385,6.2,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,45998
+Sedan,Ford,53000,290,3.5,6.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,25000
+Sedan,Ford,3763,475,6.7,8.0,Diesel,Automatic,None reported,92000
+Sedan,Ford,190321,350,6.4,8.0,Diesel,Automatic,None reported,15900
+Sedan,Ford,33000,450,6.7,8.0,Diesel,Manual,None reported,59000
+Sedan,Ford,163500,310,5.4,8.0,E85 Flex Fuel,Automatic,None reported,16490
+Sedan,Ford,9142,430,3.5,6.0,Hybrid,Automatic,None reported,61500
+Sedan,Ford,163000,325,6.0,8.0,Diesel,Automatic,At least 1 accident or damage reported,18000
+Sedan,Ford,29719,385,6.2,8.0,E85 Flex Fuel,Automatic,None reported,31000
+Sedan,Ford,17500,318,3.3,6.0,Hybrid,Automatic,None reported,46000
+Sedan,Ford,244000,440,6.7,8.0,Diesel,Manual,None reported,35500
+Sedan,Ford,94300,385,6.2,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,28999
+Sedan,Ford,59459,400,6.7,8.0,Diesel,Manual,At least 1 accident or damage reported,40999
+Sedan,Ford,195500,310,5.4,8.0,E85 Flex Fuel,Manual,None reported,8999
+Sedan,Ford,160000,240,3.0,6.0,E85 Flex Fuel,Automatic,None reported,4500
+Sedan,Ford,158366,191,2.5,4.0,Hybrid,Automatic,At least 1 accident or damage reported,8250
+Sedan,Ford,87501,225,4.6,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,17777
+Sedan,Ford,122650,440,6.7,8.0,Diesel,Manual,None reported,38900
+Sedan,Ford,162000,440,6.7,8.0,Diesel,Automatic,None reported,32000
+Sedan,Ford,23850,475,6.7,8.0,Diesel,Automatic,None reported,99750
+Sedan,Ford,25000,385,5.0,8.0,E85 Flex Fuel,Manual,None reported,65000
+Sedan,Ford,12500,191,2.5,4.0,Hybrid,Automatic,None reported,29999
+Sedan,Ford,37100,395,5.0,8.0,E85 Flex Fuel,Automatic,None reported,46000
+Sedan,Ford,223824,156,2.5,4.0,Hybrid,Automatic,At least 1 accident or damage reported,4500
+Sedan,Ford,52500,395,5.0,8.0,E85 Flex Fuel,Automatic,None reported,35000
+Sedan,Ford,156453,440,6.7,8.0,Diesel,Manual,None reported,40000
+Sedan,Ford,36500,475,6.7,8.0,Diesel,Automatic,None reported,69900
+Sedan,Ford,50780,440,6.7,8.0,Diesel,Manual,None reported,61000
+Sedan,Ford,115000,277,6.7,8.0,Diesel,Automatic,None reported,21900
+Sedan,Ford,69800,395,5.0,8.0,E85 Flex Fuel,Automatic,None reported,34600
+Sedan,Ford,42245,385,6.7,8.0,Diesel,Automatic,None reported,76598
+Sedan,Ford,25880,282,3.5,6.0,E85 Flex Fuel,Manual,None reported,25500
+Sedan,Ford,92421,440,6.7,8.0,Diesel,Manual,None reported,51900
+Sedan,Ford,94634,385,6.2,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,32500
+Sedan,Ford,112000,450,6.7,8.0,Diesel,Manual,None reported,61995
+Sedan,Ford,112180,202,2.0,4.0,Hybrid,CVT,None reported,12599
+Sedan,Ford,66281,450,6.7,8.0,Diesel,Automatic,None reported,63500
+Sedan,Ford,315000,325,6.0,8.0,Diesel,Automatic,None reported,9200
+Sedan,Ford,248000,255,5.4,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,14000
+Sedan,Ford,52000,191,2.5,4.0,Hybrid,CVT,None reported,28000
+Sedan,Ford,92671,450,6.7,8.0,Diesel,Automatic,At least 1 accident or damage reported,50000
+Sedan,Ford,36000,385,6.2,8.0,E85 Flex Fuel,Automatic,None reported,44000
+Sedan,Ford,1889,221,2.5,4.0,Plug-In Hybrid,CVT,None reported,32850
+Sedan,Ford,71000,385,5.0,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,24350
+Sedan,Ford,68749,440,6.7,8.0,Diesel,Automatic,None reported,45000
+Sedan,Ford,111700,169,2.5,4.0,E85 Flex Fuel,Automatic,None reported,15500
+Sedan,Ford,153818,400,6.7,8.0,Diesel,Manual,At least 1 accident or damage reported,29800
+Sedan,Dodge,189719,161,3.0,6.0,Diesel,Automatic,At least 1 accident or damage reported,14000
+Sedan,Dodge,124705,283,3.6,6.0,E85 Flex Fuel,Automatic,None reported,6499
+Sedan,Dodge,131100,310,4.7,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,12995
+Sedan,Dodge,43000,283,3.6,6.0,E85 Flex Fuel,Manual,None reported,35000
+Sedan,Dodge,97724,350,6.7,6.0,Diesel,Automatic,None reported,19998
+Sedan,Dodge,55000,154,2.7,5.0,Diesel,Automatic,None reported,24000
+Sedan,Dodge,148000,250,5.9,6.0,Diesel,Automatic,None reported,19000
+Sedan,Dodge,171079,245,5.9,6.0,Diesel,Automatic,None reported,27500
+Sedan,Dodge,64000,283,3.6,6.0,E85 Flex Fuel,Automatic,None reported,35000
+Sedan,Dodge,188000,370,6.7,6.0,Diesel,Automatic,At least 1 accident or damage reported,10000
+Sedan,Chrysler,61494,260,3.6,6.0,Hybrid,CVT,None reported,35850
+Sedan,Chrysler,44000,295,3.6,6.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,12700
+Sedan,Chrysler,74582,283,3.6,6.0,E85 Flex Fuel,Manual,None reported,8500
+Sedan,Chrysler,170000,295,3.6,6.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,5995
+Sedan,Chrysler,163500,283,3.6,6.0,E85 Flex Fuel,Manual,None reported,5949
+Sedan,Chrysler,115872,283,3.6,6.0,E85 Flex Fuel,Automatic,None reported,9500
+Sedan,Chevrolet,133510,120,2.2,4.0,E85 Flex Fuel,Automatic,None reported,4500
+Sedan,Chevrolet,93009,314,5.3,8.0,E85 Flex Fuel,Automatic,None reported,22495
+Sedan,Chevrolet,98000,320,5.3,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,27499
+Sedan,Chevrolet,120000,260,6.6,8.0,Diesel,Manual,None reported,19500
+Sedan,Chevrolet,92530,320,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,18500
+Sedan,Chevrolet,81000,285,4.3,6.0,E85 Flex Fuel,Automatic,None reported,32000
+Sedan,Chevrolet,169500,320,5.3,8.0,E85 Flex Fuel,Automatic,None reported,15000
+Sedan,Chevrolet,61720,355,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,39998
+Sedan,Chevrolet,77500,397,6.6,8.0,Diesel,Manual,None reported,54000
+Sedan,Chevrolet,194000,320,5.3,8.0,E85 Flex Fuel,Manual,None reported,9950
+Sedan,Chevrolet,148000,320,5.3,8.0,E85 Flex Fuel,Automatic,None reported,18000
+Sedan,Chevrolet,85200,445,6.6,8.0,Diesel,Automatic,None reported,67500
+Sedan,Chevrolet,18860,445,6.6,8.0,Diesel,Automatic,None reported,74500
+Sedan,Chevrolet,84421,360,6.0,8.0,E85 Flex Fuel,Manual,None reported,36800
+Sedan,Chevrolet,171750,295,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,12998
+Sedan,Chevrolet,56000,320,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,18000
+Sedan,Chevrolet,177000,320,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,10750
+Sedan,Chevrolet,196300,320,5.3,8.0,E85 Flex Fuel,Manual,None reported,10995
+Sedan,Chevrolet,82963,332,6.0,8.0,Hybrid,Automatic,None reported,20995
+Sedan,Chevrolet,75124,310,5.3,8.0,E85 Flex Fuel,Automatic,None reported,16499
+Sedan,Chevrolet,111095,355,5.3,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,26000
+Sedan,Chevrolet,153800,355,5.3,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,23000
+Sedan,Chevrolet,229000,180,6.5,8.0,Diesel,Automatic,At least 1 accident or damage reported,19500
+Sedan,Chevrolet,244000,320,5.3,8.0,E85 Flex Fuel,Automatic,None reported,16900
+Sedan,Chevrolet,102604,355,5.3,8.0,E85 Flex Fuel,Manual,None reported,25500
+Sedan,Chevrolet,97146,295,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,7999
+Sedan,Chevrolet,16000,445,6.6,8.0,Diesel,Automatic,At least 1 accident or damage reported,73995
+Sedan,Chevrolet,110000,355,5.3,8.0,E85 Flex Fuel,Automatic,None reported,30999
+Sedan,Chevrolet,140500,324,6.0,8.0,E85 Flex Fuel,Automatic,None reported,11800
+Sedan,Chevrolet,21400,277,3.0,6.0,Diesel,Automatic,None reported,69000
+Sedan,Chevrolet,162671,320,5.3,8.0,E85 Flex Fuel,Automatic,None reported,12000
+Sedan,Chevrolet,240000,335,6.6,8.0,Diesel,Manual,None reported,18500
+Sedan,Chevrolet,162731,320,5.3,8.0,E85 Flex Fuel,Automatic,None reported,14500
+Sedan,Chevrolet,130000,295,5.3,8.0,E85 Flex Fuel,Automatic,None reported,7200
+Sedan,Chevrolet,204000,310,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,4900
+Sedan,Chevrolet,122770,360,6.0,8.0,E85 Flex Fuel,Automatic,None reported,27499
+Sedan,Chevrolet,104733,320,5.3,8.0,E85 Flex Fuel,Manual,None reported,15000
+Sedan,Chevrolet,170000,320,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,9000
+Sedan,Chevrolet,172600,397,6.6,8.0,Diesel,Automatic,At least 1 accident or damage reported,32500
+Sedan,Chevrolet,169000,360,6.6,8.0,Diesel,Manual,None reported,19500
+Sedan,Chevrolet,104000,315,5.3,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,16500
+Sedan,Chevrolet,98000,355,5.3,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,30000
+Sedan,Chevrolet,140401,320,5.3,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,16000
+Luxury,Cadillac,15689,420,3.0,6.0,Diesel,Automatic,None reported,97952
+Luxury,Cadillac,155000,403,6.2,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,16900
+Luxury,Cadillac,3000,277,3.0,6.0,Diesel,Automatic,None reported,123999
+Luxury,Cadillac,104000,403,6.2,8.0,E85 Flex Fuel,Automatic,None reported,19500
+Luxury,Cadillac,95570,403,6.2,8.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,22000
+Luxury,Cadillac,152068,403,6.2,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,12350
+Luxury,Cadillac,8532,420,3.0,6.0,Diesel,Automatic,None reported,109900
+Luxury,Cadillac,87500,308,3.6,6.0,E85 Flex Fuel,Automatic,None reported,11499
+Luxury,Cadillac,114500,403,6.2,8.0,E85 Flex Fuel,Automatic,None reported,16100
+Luxury,Cadillac,160249,403,6.2,8.0,E85 Flex Fuel,Automatic,None reported,12900
+Luxury,Cadillac,113395,403,6.2,8.0,E85 Flex Fuel,Manual,At least 1 accident or damage reported,18800
+Luxury,Buick,68325,180,2.4,4.0,E85 Flex Fuel,Automatic,None reported,11995
+Luxury,Buick,19079,182,2.4,4.0,Hybrid,Manual,None reported,15995
+Luxury,Bentley,20200,552,6.0,12.0,E85 Flex Fuel,Manual,None reported,79950
+Luxury,Bentley,79089,567,6.0,12.0,E85 Flex Fuel,Automatic,None reported,46999
+Luxury,BMW,35035,170,1.5,2.0,Hybrid,Automatic,None reported,24998
+Luxury,BMW,8500,382,3.0,6.0,Hybrid,Automatic,None reported,67900
+Luxury,BMW,41500,369,1.5,3.0,Plug-In Hybrid,Automatic,None reported,86000
+Luxury,BMW,846,357,1.5,3.0,Plug-In Hybrid,Automatic,None reported,86999
+Luxury,BMW,2437,375,3.0,6.0,Hybrid,Automatic,None reported,78350
+Luxury,BMW,2950,375,3.0,6.0,Hybrid,Automatic,None reported,87000
+Luxury,BMW,41550,247,2.0,4.0,Plug-In Hybrid,Automatic,None reported,20995
+Luxury,BMW,5338,389,3.0,6.0,Plug-In Hybrid,Automatic,None reported,76500
+Luxury,BMW,52500,247,2.0,4.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,24950
+Luxury,BMW,38671,335,3.0,6.0,Hybrid,Automatic,None reported,66998
+Luxury,BMW,30309,335,3.0,6.0,Hybrid,Automatic,None reported,63598
+Luxury,BMW,24300,382,3.0,6.0,Hybrid,Automatic,None reported,49999
+Luxury,BMW,45090,313,2.0,4.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,30750
+Luxury,BMW,9000,382,3.0,6.0,Hybrid,Automatic,None reported,56900
+Luxury,BMW,13000,335,3.0,6.0,Hybrid,Automatic,None reported,69000
+Luxury,BMW,34967,382,3.0,6.0,Hybrid,Automatic,At least 1 accident or damage reported,49999
+Luxury,BMW,14360,375,3.0,6.0,Hybrid,Automatic,None reported,85495
+Luxury,BMW,16307,335,3.0,6.0,Hybrid,Automatic,None reported,71400
+Luxury,BMW,22700,288,2.0,4.0,Plug-In Hybrid,Automatic,None reported,47000
+Luxury,BMW,45253,247,2.0,4.0,Plug-In Hybrid,Automatic,None reported,24995
+Luxury,BMW,8000,335,3.0,6.0,Hybrid,Automatic,None reported,85000
+Luxury,BMW,51000,357,1.5,3.0,Plug-In Hybrid,Automatic,None reported,53000
+Luxury,BMW,91798,306,2.0,4.0,Hybrid,Automatic,None reported,22998
+Luxury,BMW,15736,389,3.0,6.0,Plug-In Hybrid,Automatic,None reported,67900
+Luxury,BMW,72903,355,3.0,6.0,Hybrid,Automatic,At least 1 accident or damage reported,53998
+Luxury,BMW,27654,355,3.0,6.0,Hybrid,Automatic,None reported,61998
+Luxury,BMW,33214,322,2.0,4.0,Plug-In Hybrid,Automatic,None reported,43500
+Luxury,BMW,31850,389,3.0,6.0,Plug-In Hybrid,Automatic,None reported,60500
+Luxury,BMW,41000,335,3.0,6.0,Hybrid,Automatic,None reported,50000
+Luxury,BMW,3099,389,3.0,6.0,Plug-In Hybrid,Automatic,None reported,74995
+Luxury,BMW,9200,335,3.0,6.0,Hybrid,Automatic,At least 1 accident or damage reported,71200
+Luxury,BMW,28200,369,1.5,3.0,Plug-In Hybrid,Automatic,At least 1 accident or damage reported,79950
+Luxury,Audi,81880,248,2.0,4.0,E85 Flex Fuel,Automatic,None reported,21375
+Luxury,Audi,25361,340,3.0,6.0,Hybrid,Automatic,None reported,49998
+Luxury,Audi,2425,201,2.0,4.0,Hybrid,Automatic,None reported,42998
+Luxury,Audi,12000,444,2.9,6.0,Hybrid,Automatic,None reported,77500
+Luxury,Audi,4648,261,2.0,4.0,Hybrid,Automatic,None reported,47598
+Luxury,Audi,35999,424,4.0,8.0,Hybrid,Automatic,None reported,59598
+Luxury,Audi,14724,563,4.0,8.0,Hybrid,Automatic,None reported,101998
+Luxury,Audi,15000,335,3.0,6.0,Hybrid,Automatic,None reported,63000
+Luxury,Audi,83000,150,2.0,4.0,Diesel,Manual,At least 1 accident or damage reported,18999
+Luxury,Audi,93400,335,3.0,6.0,Hybrid,Automatic,None reported,42500
+Luxury,Audi,39000,335,3.0,6.0,Hybrid,Automatic,None reported,50000
+Luxury,Audi,91403,190,2.0,4.0,E85 Flex Fuel,Automatic,None reported,14998
+Luxury,Audi,73000,240,3.0,6.0,Diesel,Automatic,None reported,34000
+Luxury,Audi,27100,335,3.0,6.0,Hybrid,Automatic,None reported,50000
+Luxury,Audi,14750,335,3.0,6.0,Hybrid,Automatic,None reported,61059
+Luxury,Audi,4100,591,4.0,8.0,Hybrid,Automatic,None reported,162500
+Luxury,Audi,10601,340,3.0,6.0,Hybrid,Automatic,None reported,61998
+Luxury,Audi,22588,340,3.0,6.0,Hybrid,Automatic,None reported,52598
+Luxury,Audi,73000,220,2.0,4.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,17200
+Luxury,Audi,54900,335,3.0,6.0,Hybrid,Automatic,At least 1 accident or damage reported,48500
+Luxury,Audi,55564,240,3.0,6.0,Diesel,Automatic,At least 1 accident or damage reported,22500
+Luxury,Audi,10120,261,2.0,4.0,Hybrid,Automatic,None reported,39998
+Luxury,Audi,30000,335,3.0,6.0,Hybrid,Automatic,None reported,62000
+Luxury,Audi,34300,335,3.0,6.0,Hybrid,Automatic,None reported,52500
+Luxury,Audi,5682,261,2.0,4.0,Hybrid,Automatic,None reported,48698
+Luxury,Audi,18099,261,2.0,4.0,Hybrid,Automatic,None reported,40798
+Luxury,Audi,10071,261,2.0,4.0,Hybrid,Automatic,None reported,40598
+Luxury,Audi,42400,240,3.0,6.0,Diesel,Automatic,None reported,26500
+Luxury,Audi,13895,261,2.0,4.0,Hybrid,Automatic,None reported,44998
+Luxury,Audi,118500,220,2.0,4.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,15400
+Luxury,Audi,8193,261,2.0,4.0,Hybrid,Automatic,None reported,42598
+Luxury,Audi,33000,248,2.0,4.0,Hybrid,Automatic,None reported,40000
+Luxury,Audi,45900,335,3.0,6.0,Hybrid,Automatic,At least 1 accident or damage reported,41500
+Luxury,Audi,6682,261,2.0,4.0,Hybrid,Automatic,None reported,47798
+Luxury,Audi,35580,335,3.0,6.0,Hybrid,Automatic,None reported,49500
+Luxury,Audi,35000,261,2.0,4.0,Hybrid,Manual,None reported,37499
+Luxury,Audi,13133,261,2.0,4.0,Hybrid,Automatic,None reported,42998
+Luxury,Audi,54700,220,2.0,4.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,20995
+Luxury,Audi,52105,220,2.0,4.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,20499
+Luxury,Audi,25300,335,3.0,6.0,Hybrid,Manual,None reported,39900
+Luxury,Audi,22800,335,3.0,6.0,Hybrid,Automatic,None reported,52000
+Luxury,Audi,83420,220,2.0,4.0,E85 Flex Fuel,Automatic,At least 1 accident or damage reported,16000
+Luxury,Audi,90236,220,2.0,4.0,E85 Flex Fuel,Automatic,None reported,9999
+Luxury,Audi,24500,261,2.0,4.0,Hybrid,Automatic,None reported,47000
+Luxury,Audi,23350,335,3.0,6.0,Hybrid,Automatic,None reported,48000
+Luxury,Audi,6046,261,2.0,4.0,Hybrid,Automatic,None reported,51598
+Luxury,Audi,10832,335,3.0,6.0,Hybrid,Manual,None reported,42500
+Luxury,Audi,51984,335,3.0,6.0,Hybrid,Automatic,None reported,44870
+Luxury,Audi,14550,201,2.0,4.0,Hybrid,Manual,None reported,41500
+Luxury,Acura,56778,321,3.0,6.0,Hybrid,Manual,None reported,41899
+Luxury,Acura,6523,573,3.5,6.0,Hybrid,Automatic,None reported,143900
