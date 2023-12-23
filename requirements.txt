@@ -94,3 +94,6 @@ wcwidth==0.2.12
 wordcloud==1.9.3
 xgboost==2.0.3
 zipp==3.17.0
+wordcloud==1.9.3
+xgboost==2.0.3
+zipp==3.17.0
