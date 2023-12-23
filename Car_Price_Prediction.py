@@ -11,12 +11,14 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score, m
 import locale
 import re
 import pickle
+import os
 
 st.title('Car Price Prediction')
 st.sidebar.header('Choose According to your Criteria')
 
-image_url = 'Car_Price_Prediction.png'
-st.image(image_url, use_column_width=True)
+project_dir = os.path.dirname(os.path.abspath(__file__))
+image_path = os.path.join(project_dir, 'Car_Price_Prediction.png')
+st.image(image_path, use_column_width=True)
 
 def user_input_features():
     product_category_options = ['Compact', 'Luxury', 'Pick Up', 'SUV', 'Sedan']
@@ -170,7 +172,8 @@ def user_input_features():
 
 input_df = user_input_features()
 
-df = pd.read_csv('Car_Price_Prediction.csv')
+csv_file_path = os.path.join(project_dir, 'Car_Price_Prediction.csv')
+df = pd.read_csv(csv_file_path)
 
 X = df.drop(columns=['price'])
 y = df['price']
